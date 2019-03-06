@@ -1,3 +1,8 @@
+
+
+### This code is associated with the paper from Hennig et al., "Constraints on neural redundancy". eLife, 2018. http://dx.doi.org/10.7554/eLife.36774
+
+
 # Analysis code for "Constraints on neural redundancy"
 
 __Paper__: Jay A. Hennig, Matthew D. Golub, Peter J. Lund, Patrick T. Sadtler, Emily R. Oby, Kristin M. Quick, Stephen I. Ryu, Elizabeth C. Tyler-Kabara, Aaron P. Batista*, Byron M. Yu*, and Steven M. Chase*. "Constraints on neural redundancy". _eLife_ (2018)
